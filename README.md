@@ -1,2 +1,2 @@
-# Abacate
- Primeiro repositório do curso
+# Abacate vermelho
+ Primeiro repositório criado para o curso
